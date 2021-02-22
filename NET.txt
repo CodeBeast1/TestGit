@@ -1,0 +1,22 @@
+Application directly referencing tables from the database
+--Monolithic
+
+
+
+Scalabilty: Horizontal scalling, workload partitioning
+
+Separation of Concern: Modularity and encapsulation
+
+Elasticyt: Automated Operations,On demand Provisioning
+
+Continues Learning:
+
+Incident
+Resolution
+Review
+Remediation
+Analysis
+est Pratice
+Automation
+Adoption: Tha is how knowledge becomes code and are integrated in our designs
+
